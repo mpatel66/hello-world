@@ -1,2 +1,1 @@
-Hello!
-Second line of change.
+this is a git diff test example
