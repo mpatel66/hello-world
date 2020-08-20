@@ -1,1 +1,2 @@
-this is a git diff test example
+Hello world!
+This is the second line of the readme.
